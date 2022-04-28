@@ -4,9 +4,7 @@
   "private": true,
   "workspaces": {
     "packages": [
-      "projects/header",
-      "projects/page",
-      "projects/element"
+      "projects/**"
     ]
   }
 }
