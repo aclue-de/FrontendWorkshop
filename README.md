@@ -1,4 +1,4 @@
-# Aclue Frontend Workshop Mono Repo
+# Aclue Frontend Workshop
 
 This repository includes the code demo for page composition. For other code demos, see below:
 
